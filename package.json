@@ -81,7 +81,7 @@
     "@faker-js/faker": "7.6.0",
     "@types/lodash": "4.14.189",
     "@types/yeoman-generator": "5.2.11",
-    "@types/yeoman-test": "4.0.3",
+    "@types/yeoman-test": "7.0.0",
     "aws-sdk": "2.1258.0",
     "axios": "0.27.2",
     "chalk": "4.1.2",
